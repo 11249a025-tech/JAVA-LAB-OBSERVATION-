@@ -24,3 +24,11 @@ madam is a palindrome
 trythis outputs:
 rebate.java =
 Final amount: 900.0
+
+HighestBill.java =
+Student with highest bill: Priya
+Highest bill: 3000.0
+
+Students.java =
+Enter number of students: 5
+Number of students: 5
