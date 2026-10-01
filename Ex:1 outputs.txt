@@ -20,3 +20,7 @@ Position of U: 7
 Replace S->X: XCXVMV University
 Original : SCSVMV University
 madam is a palindrome
+
+trythis outputs:
+rebate.java =
+Final amount: 900.0
