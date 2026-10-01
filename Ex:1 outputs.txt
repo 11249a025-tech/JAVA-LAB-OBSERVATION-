@@ -1,4 +1,4 @@
-***Ex:1.1***
+Ex:1.1
 ROLL NAME MARKS
 101 jyooooo 91
 102 dhathuuuuuuu 91
@@ -11,3 +11,12 @@ Ex:1.2
 88 Pass
 Total = 368
 Average = 73.6
+
+Ex:1.3
+Length : 17
+Upper case : SCSVMV UNIVERSITY
+First six : SCSVMV
+Position of U: 7
+Replace S->X: XCXVMV University
+Original : SCSVMV University
+madam is a palindrome
