@@ -2,3 +2,6 @@ ex:3.1
 
 Circle   area = 78.54
 Rect     area = 24.00
+
+ex:3.2
+[Anu(92), Kiran(67), Ravi(45)]
