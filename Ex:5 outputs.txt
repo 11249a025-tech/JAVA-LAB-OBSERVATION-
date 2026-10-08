@@ -7,3 +7,9 @@ Thread B : 3
 Thread A : 3
 
 Ex:5.2 SyncDemo.java
+Final count = 20000
+
+trythis :RaceDemo.java
+User-2 booked a seat!
+User-1 booked a seat!
+Seats left = -1
