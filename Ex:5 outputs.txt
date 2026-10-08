@@ -1,0 +1,9 @@
+Ex:5.1 ThreadDemo.java
+Thread A : 1
+Thread B : 1
+Thread A : 2
+Thread B : 2
+Thread B : 3
+Thread A : 3
+
+Ex:5.2 SyncDemo.java
