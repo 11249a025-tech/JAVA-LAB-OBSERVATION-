@@ -7,3 +7,6 @@ ex:4.2 RoleDemo.java
 Kumar -> Teacher
 Selvam -> Driver
 Raj -> Staff
+
+trythis :RoleDemo.java
+Driver Salary: Rs. 18000
