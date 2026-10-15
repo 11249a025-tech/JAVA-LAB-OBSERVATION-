@@ -6,3 +6,14 @@ ROLL NAME MARKS
 102 Divya 91
 103 Karthik 45
 
+Trythis:  FeeReport.java
+
++------------+------------+
+| Fee Type   | Amount     |
++------------+------------+
+| Tuition    | 10000      |
+| Library    | 500        |
+| Laboratory | 1000       |
+Skipping invalid line: Sports,A
++------------+------------+
+Topper: Rahul
