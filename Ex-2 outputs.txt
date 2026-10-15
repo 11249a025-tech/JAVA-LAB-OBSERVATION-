@@ -1,0 +1,14 @@
+D:\JavaLab\Ex2> javac -d . MathUtil.java
+(this creates the folders com\scsvmv\util automatically)
+D:\JavaLab\Ex2> javac UseMath.java
+D:\JavaLab\Ex2> java UseMath
+Square of 7 = 49
+Cube of 3 = 27
+
+Try This - FeeReport.java
+  
+Fee Type   |   Amount  
++------------+------------+
+Tuition    |   10000      
+Library    |   500        
+Laboratory |   1000  
