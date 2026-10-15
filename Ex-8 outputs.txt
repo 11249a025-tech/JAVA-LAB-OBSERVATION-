@@ -1,0 +1,37 @@
+Program 8.1 — HelloApplet.java
+
+A window appears showing:
+Welcome to SCSVMV
+a red circle beside a green rectangle
+
+Program 8.2 — Life cycle in four lines of printing
+
+init()
+start()
+paint()
+stop() <- window minimised
+start() <- window restored
+paint()
+stop() <- window closed
+destroy()
+
+Program 8.3 — Palette.java
+
++--------------------------------------------+
+| [RED] [GREEN] [BLUE] [YELLOW] |
+| |
+| +--------------------------------------+ |
+| | big box, filled with the colour | |
+| | you clicked | |
+| +--------------------------------------+ |
++--------------------------------------------+
+
+TryThis: FeeReport.java
+
+Fee Type        Amount
+--------------------------------
+Tuition         10000
+Library         500
+Laboratory      1000
+
+Topper: Rahul
