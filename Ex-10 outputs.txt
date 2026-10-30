@@ -1,0 +1,34 @@
+Program 10.1 — FetchData.java
+
+REG NAME MARKS
+101 Aravind 78
+102 Divya 91
+
+Program 10.2 — InsertData.java
+
+1 row inserted.
+Run FetchData again:
+REG NAME MARKS
+101 Aravind 78
+102 Divya 91
+103 Karthik 45
+
+trythis :StudentForm.java
+
+Student Registration Form
+       STUDENT REGISTRATION FORM
+Student Name: Rahul
+Registration Number: 101
+☑ Hostel Required
+[ Submit ]    [ Delete ]
+Student Details:
+Student Name: Rahul
+Registration No: 101
+Hostel Required: Yes
+
+After clicking Delete
+Student deleted successfully!
+
+If the registration number does not exist
+
+Student record not found!
