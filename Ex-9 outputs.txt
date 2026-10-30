@@ -1,0 +1,31 @@
+Program 9.1 — BorderDemo.java
+
+BorderDemo : NORTH across the top, SOUTH across the bottom,
+WEST and EAST at the sides, CENTER fills the middle.
+Enlarge the window - only CENTER grows.
+
+Program 9.2 — GridDemo.java
+
+GridDemo : twelve equal keys in four rows of three.
+
+Program 9.3 — FlowDemo.java
+
+FlowDemo : five buttons in a row; narrow the window and
+they wrap onto a second row.
+
+Program 9.4 — LoginForm.java
+
+ User Name [ cse ] 
+ Password [ **** ] 
+ [ Login ] 
+ Login successful 
+Typing anything else gives: Invalid user or password
+
+try this: StudentForm.java 
+
+Student Name:
+Rahul
+Hostel Required
+Student Details
+Student Name: Rahul
+Hostel Required: Yes
